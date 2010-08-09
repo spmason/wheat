@@ -1,0 +1,6 @@
+{
+	"name": "wheat",
+	"version": "0.2.0",
+	"directories": {"lib": "./lib"},
+	"main": "./lib/wheat"
+}
