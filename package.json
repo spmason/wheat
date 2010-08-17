@@ -2,5 +2,13 @@
 	"name": "wheat",
 	"version": "0.2.0",
 	"directories": {"lib": "./lib"},
-	"main": "./lib/wheat"
+	"main": "./lib/wheat",
+	"dependencies":
+	{
+		"connect": ">=0.2.4",
+		"git": ">=0.0.3",	// Get from http://github.com/spmason/node-git & manaully "npm install ." - the npm version will not work
+		"haml": ">=0.2.5",
+		"proto": ">=0.0.2",
+		"step": ">=0.0.3"
+	}
 }
