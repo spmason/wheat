@@ -7,7 +7,7 @@
     "howtonode",
     "blog"
   ],
-  "version": "0.2.4spmason",
+  "version": "0.2.4",
   "author": "Tim Caswell <tim@creationix.com>",
   "repository": {
     "type": "git",
